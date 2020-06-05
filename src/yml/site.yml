@@ -1,15 +1,13 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: Young Style 
+title: Young Style | Dress 2 Impress
+description: Tinute pentru stilul tau.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: youremail@xyz.com
+  - fashion
+  - style
+  - young
+email: contact@youngstyle.ro
 disqus_username: disqus_username
-show_hero: true
+show_hero: false
 menu:
   - title: Home
     url: /
