@@ -15,11 +15,8 @@ tags:
 author: Radu Fenyo
 paginate: false
 ---
-**Camasa**
-http://bit.do/fFRnd
+[**Camasa**](http://bit.do/fFRnd)
 
-**Pantaloni**
-http://bit.do/fFRnt
+[**Pantaloni**](http://bit.do/fFRnt)
 
-**Sandale**
-http://bit.do/fFRnv
+[**Sandale**](http://bit.do/fFRnv)
