@@ -1,12 +1,12 @@
 ---
-date: 2020-06-05 01:59:48
+date: 2020-06-05T01:59:48.000Z
 layout: post
-title: "Radu Bradu"
+title: Radu Bradu
 subtitle: Subtitlu
 description: Descriere
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
-category: blacktie 
+category: blacktie
 tags:
   - hipster
   - blacktie
@@ -20,3 +20,5 @@ paginate: false
 [**Pantaloni**](http://bit.do/fFRnt) 379 RON
 
 [**Sandale**](http://bit.do/fFRnv) 199 RON 
+
+[**Geanta**](http://bit.do/fFR62) 349 RON
