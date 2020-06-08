@@ -1,17 +1,20 @@
 ---
-date: 2018-07-20 12:26:40
+date: 2018-07-20T12:26:40.000Z
 layout: post
 title: A wonderful serenity has taken possession of my entire soul
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+  eiusmod tempor incididunt ut labore et dolore magna aliqua.
 image: https://youngstylero.s3.eu-central-1.amazonaws.com/assets/mood-board-4.png
 optimized_image: https://youngstylero.s3.eu-central-1.amazonaws.com/assets/mood-board-4.png
-category: business formal 
+category: casual
 tags:
-  - platform
-  - javascript
-  - vscode
+  - girls
+  - punk
+  - casual
+  - street
 author: thiagorossener
+paginate: true
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
