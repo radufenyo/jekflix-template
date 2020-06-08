@@ -1,16 +1,18 @@
 ---
-date: 2020-06-05 01:59:48
+date: 2020-06-05T01:59:48.000Z
 layout: post
-title: "Elegance in Smart Casual"
+title: Radu Bradu
 subtitle: Subtitlu
 description: Descriere
-image: https://youngstylero.s3.eu-central-1.amazonaws.com/assets/mood-board-2.png
-optimized_image: https://youngstylero.s3.eu-central-1.amazonaws.com/assets/mood-board-2.png
-category: smart-casual 
+image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
+optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
+category: blacktie
 tags:
-  - elegant
-  - woman
-author: Anto Dumi
+  - hipster
+  - blacktie
+  - boys
+  - classic
+author: Radu Fenyo
 paginate: false
 ---
 [**Bluza**](http://bit.do/fFRnd) 219 RON
@@ -19,4 +21,4 @@ paginate: false
 
 [**Sandale**](http://bit.do/fFRnv) 199 RON 
 
-[**Cercei**](http://bit.do/fFTt2) 129 RON 
+[**Geanta**](http://bit.do/fFR62) 349 RON
