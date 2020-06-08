@@ -1,12 +1,10 @@
-name: Young Style 
+name: Young Style
 title: Young Style | Dress 2 Impress
 description: Tinute pentru stilul tau.
 tags:
   - fashion
   - style
   - young
-email: contact@youngstyle.ro
-disqus_username: disqus_username
 show_hero: false
 menu:
   - title: Home
@@ -17,3 +15,5 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
+email: contact@mail.youngstyle.ro
+disqus_username: disqus_username
