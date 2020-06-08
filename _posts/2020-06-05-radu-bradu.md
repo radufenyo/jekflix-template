@@ -4,8 +4,8 @@ layout: post
 title: "Radu Bradu"
 subtitle: Subtitlu
 description: Descriere
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
+image: https://youngstylero.s3.eu-central-1.amazonaws.com/assets/mood-board-2.png
+optimized_image: https://youngstylero.s3.eu-central-1.amazonaws.com/assets/mood-board-2.png
 category: blacktie 
 tags:
   - hipster
