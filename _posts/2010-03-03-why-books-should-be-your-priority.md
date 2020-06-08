@@ -1,15 +1,19 @@
 ---
-date: 2018-11-22 12:26:40
+date: 2018-11-22T12:26:40.000Z
 layout: post
-title: Why books should be your priority?
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+title: Business Casual sau Smart Casual
+subtitle: Tinuta pentru la birou sau pentru iesit la carciuma
+description: Tinuta pentru iesit la un pranz de afaceri sau nu stiu ce sa mai scriu aici
 image: https://youngstylero.s3.eu-central-1.amazonaws.com/assets/mood-board-3.png
 optimized_image: https://youngstylero.s3.eu-central-1.amazonaws.com/assets/mood-board-3.png
-category: cocktail 
+category: smart-casual
 tags:
-  - girls 
-  - chic
+  - girls
+  - pantaloni
+  - blazer
+  - geanta
+  - sandale
+  - accesorii
 author: thiagorossener
 paginate: true
 ---
