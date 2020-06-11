@@ -1,0 +1,19 @@
+---
+date: 2020-06-11 16:47:41
+layout: post
+title: Casual Armani
+description: Tinuta sport casual
+image: /assets/img/uploads/mood-board-8.png
+category: casual
+tags:
+  - armani
+  - boys
+  - ""
+author: thiagorossener
+paginate: true
+---
+[Pantalon ](http://bit.do/fFWA5)
+
+[Tricou](http://bit.do/fFWBa)
+
+[Pantofi sport](http://bit.do/fFWBd)
