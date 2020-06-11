@@ -1,7 +1,7 @@
 ---
-date: 2020-06-11 16:54:11
+date: 2020-06-11T16:54:11.000Z
 layout: post
-title: Rochie de seara neagra
+title: Rochie de seara
 description: Tinuta pentru eveniment special
 image: /assets/img/uploads/mood-board-7.png
 category: blacktie
