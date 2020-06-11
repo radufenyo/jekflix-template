@@ -1,5 +1,5 @@
 ---
-date: 2020-06-11T16:54:11.000Z
+date: 2020-06-11 16:57:22
 layout: post
 title: Rochie de seara
 description: Tinuta pentru eveniment special
