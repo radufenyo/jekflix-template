@@ -2,7 +2,7 @@
 date: 2020-06-18 17:06:24
 layout: post
 title: Twist of retro style
-description: Oversized blazer
+description: Salopeta si sandalele de piele marca Mango te vor scoate din orice tipar, in orice loc.
 image: /assets/img/uploads/mood-board-10.png
 optimized_image: /assets/img/uploads/mood-board-10.png
 category: smart-casual
