@@ -1,16 +1,18 @@
 ---
 date: 2018-04-21 12:26:40
 layout: post
-title: Candy, candies, candy!
+title: Moodboard 5
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description: O seara in oras este momentul perfecte pentru a purta o rochie de
+  tip bodycon. Accesoriile fine si plicul Benvenuti completeaza tinuta.
 image: https://youngstylero.s3.eu-central-1.amazonaws.com/assets/mood-board-5.png
 optimized_image: https://youngstylero.s3.eu-central-1.amazonaws.com/assets/mood-board-5.png
-category: business casual 
+category: business casual
 tags:
   - food
   - tips
 author: thiagorossener
+paginate: false
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
