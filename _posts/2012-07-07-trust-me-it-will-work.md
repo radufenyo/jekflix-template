@@ -1,16 +1,19 @@
 ---
 date: 2018-03-12 12:26:40
 layout: post
-title: Trust me, it will work
+title: Moodboard 6
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description: La birou sau la o intalnire, bluza cu volane din matase se muleaza
+  pe orice situatie, iar loaferii sunt alegerea perfecta pentru o zi in care
+  esti constienta de cat vei alerga!
 image: https://youngstylero.s3.eu-central-1.amazonaws.com/assets/mood-board-6.png
 optimized_image: https://youngstylero.s3.eu-central-1.amazonaws.com/assets/mood-board-6.png
-category: 'smart-casual'
+category: smart-casual
 tags:
   - languages
   - tips
 author: thiagorossener
+paginate: false
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
