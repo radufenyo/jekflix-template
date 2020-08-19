@@ -1,10 +1,11 @@
 ---
 date: 2018-07-20T12:26:40.000Z
 layout: post
-title: A wonderful serenity has taken possession of my entire soul
+title: Moodboard 4
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-  eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description: O plimbare in mall sau o zi normala de liceu? Perfect! Alaturi de
+  tricoul Diesel si fusta din denim, combinatia aceasta o sa se incadreze
+  oricarui loc il preferi.
 image: https://youngstylero.s3.eu-central-1.amazonaws.com/assets/mood-board-4.png
 optimized_image: https://youngstylero.s3.eu-central-1.amazonaws.com/assets/mood-board-4.png
 category: casual
